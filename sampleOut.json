@@ -1,0 +1,206 @@
+{
+  "status": "ok",
+  "totalResults": 38,
+  "articles": [
+    {
+      "source": { "id": "cnn", "name": "CNN" },
+      "author": "Matt Rivers, Etant Dupain, Natalie Gallón, Kylie Atwood and Elizabeth Joseph, CNN",
+      "title": "Powerful gang behind kidnapping of 17 US and Canadian missionaries in Haiti, security source says - CNN",
+      "description": "One of Haiti's most powerful gangs -- the 400 Mawozo -- is believed to be behind the kidnapping of 17 American and Canadian missionaries, a source in the Caribbean country's security forces told CNN Sunday.",
+      "url": "https://www.cnn.com/2021/10/18/americas/haiti-american-missionary-400-mawozo-intl-hnk/index.html",
+      "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/211017232046-maison-la-providence-de-dieu-orphanage-1017-super-tease.jpg",
+      "publishedAt": "2021-10-18T04:55:00Z",
+      "content": null
+    },
+    {
+      "source": { "id": null, "name": "BBC News" },
+      "author": "https://www.facebook.com/bbcnews",
+      "title": "Facebook to hire 10000 in EU to work on metaverse - BBC News",
+      "description": "Mark Zuckerberg is a leading voice on the metaverse - a virtual reality version of the internet.",
+      "url": "https://www.bbc.com/news/world-europe-58949867",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/2ED7/production/_121119911_zuckerberggettyimages-1140291810.jpg",
+      "publishedAt": "2021-10-18T04:44:49Z",
+      "content": "Image source, AFP via Getty Images\r\nImage caption, Mark Zuckerberg has been a leading voice on the metaverse\r\nFacebook is planning to hire 10,000 people in the European Union to develop a so-called m… [+1852 chars]"
+    },
+    {
+      "source": { "id": null, "name": "CBS Sports" },
+      "author": "",
+      "title": "Dodgers vs. Braves: Dave Roberts explains using Julio Urías in relief; Max Scherzer says his 'arm was dead' - CBS Sports",
+      "description": "The Dodgers' process was sound, but the result has them down 2-0 in the NLCS",
+      "url": "https://www.cbssports.com/mlb/news/dodgers-vs-braves-dave-roberts-explains-using-julio-urias-in-relief-max-scherzer-says-his-arm-was-dead/",
+      "urlToImage": "https://sportshub.cbsistatic.com/i/r/2021/10/18/b3c80499-7ea4-4958-bbbd-0226541af4d2/thumbnail/1200x675/970096cfefe2ffadde127a82eb7e115e/urias-1.png",
+      "publishedAt": "2021-10-18T04:16:00Z",
+      "content": "The Los Angeles Dodgers lost to the Atlanta Braves 5-4 (box score) in Game 2 of the National League Championship Series on Sunday night. The Dodgers held a 4-2 lead entering the bottom of the eighth … [+2689 chars]"
+    },
+    {
+      "source": { "id": null, "name": "CNBC" },
+      "author": "Melissa Repko",
+      "title": "Walmart+ members get first dibs on Black Friday deals, which will start in early November - CNBC",
+      "description": "The big-box retailer is offering the perk at a time when many shoppers are concerned about out-of-stocks and rising prices.",
+      "url": "https://www.cnbc.com/2021/10/18/holiday-2021-walmart-members-get-first-dibs-on-black-friday-deals.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/104166951-RTX2QKP4.jpg?v=1579177743",
+      "publishedAt": "2021-10-18T04:01:01Z",
+      "content": "Walmart will not only dangle discounts on giant TVs, air fryers and Legos this holiday season. It will also push its subscription service, Walmart+.\r\nThe retail giant said Monday that the program's m… [+2613 chars]"
+    },
+    {
+      "source": { "id": "business-insider", "name": "Business Insider" },
+      "author": "Cheryl Teh",
+      "title": "Trump is calling for a vote audit in Arizona's Pima County - Business Insider",
+      "description": "The former president is now baselessly alleging that \"fictitious\" votes were cast in Pima County and has called for Biden's win to be decertified.",
+      "url": "https://www.businessinsider.com/trump-calling-for-vote-audit-in-arizonas-pima-county-2021-10",
+      "urlToImage": "https://i.insider.com/616cd26a38c196001830489e?width=1200&format=jpeg",
+      "publishedAt": "2021-10-18T03:30:16Z",
+      "content": "Former President Donald Trump is once again pushing for a vote audit in Arizona, even after an earlier vote audit in Maricopa County proved that President Joe Biden won.\r\nThis time, the former presid… [+3139 chars]"
+    },
+    {
+      "source": { "id": "the-hill", "name": "The Hill" },
+      "author": "Mychael Schnell",
+      "title": "Manchin lays down demands for child tax credit: report | TheHill - The Hill",
+      "description": "Sen. Joe Manchin (D-W.Va.) has reportedly laid down new red lines...",
+      "url": "https://thehill.com/homenews/senate/577142-manchin-lays-down-demands-for-child-tax-credit-report",
+      "urlToImage": "https://thehill.com/sites/default/files/manchinjoe_100621gn12_lead.jpg",
+      "publishedAt": "2021-10-18T03:00:26Z",
+      "content": "Sen. Joe ManchinJoe ManchinPressure grows for breakthrough in Biden agenda talksClimate activists target ManchinHoyer signals House vote on bill to 'remove' debt limit threatMORE (D-W.Va.) has report… [+5210 chars]"
+    },
+    {
+      "source": { "id": null, "name": "ESPN" },
+      "author": "Todd Archer",
+      "title": "Dak Prescott injures calf in Dallas Cowboys' overtime win, expects to 'be fine' though MRI is scheduled - ESPN",
+      "description": "Dallas quarterback Dak Prescott, who will undergo an MRI on Monday for a right calf injury he suffered on his game-winning touchdown pass to CeeDee Lamb on Sunday in overtime at New England, believes the Cowboys' bye week has come at a good time.",
+      "url": "https://www.espn.com/nfl/story/_/id/32421103/dak-prescott-injures-calf-dallas-cowboys-win-expects-fine-mri-scheduled",
+      "urlToImage": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2021%2F1018%2Fr924526_1296x729_16%2D9.jpg",
+      "publishedAt": "2021-10-18T02:26:39Z",
+      "content": "FOXBOROUGH, Mass. -- Dallas Cowboys quarterback Dak Prescott will undergo an MRI on Monday for a right calf injury that he suffered on his touchdown pass to CeeDee Lamb to defeat the New England Patr… [+4363 chars]"
+    },
+    {
+      "source": { "id": null, "name": "PhoneArena" },
+      "author": "Anam Hamid",
+      "title": "Pixel 6 will be crazy affordable for a flagship phone: Target leak - PhoneArena",
+      "description": "Looks like earlier rumors had overestimated Google Pixel 6 prices by a wide margin.",
+      "url": "https://www.phonearena.com/news/google-pixel-6-us-prices-revealed-by-target_id135778",
+      "urlToImage": "https://m-cdn.phonearena.com/images/article/135778-wide-two_1200/Pixel-6-will-be-crazy-affordable-for-a-flagship-phone-Target-leak.jpg",
+      "publishedAt": "2021-10-18T02:16:19Z",
+      "content": "This is our new notification center.\r\n Inside, you will find updates on the most important things happening right now.\r\nGot it"
+    },
+    {
+      "source": { "id": null, "name": "New York Times" },
+      "author": "Keith Bradsher",
+      "title": "China's GDP Growth Slows as Property and Energy Take a Toll - The New York Times",
+      "description": "Growth of 4.9 percent shows the country’s huge industrial sector has run into trouble. But exports and services are looking strong.",
+      "url": "https://www.nytimes.com/2021/10/17/business/economy/china-economy-gdp.html",
+      "urlToImage": "https://static01.nyt.com/images/2021/10/18/business/18China-Econ-1/18China-Econ-1-facebookJumbo.jpg",
+      "publishedAt": "2021-10-18T02:02:52Z",
+      "content": "Volkswagen, the market leader in China, said on Friday that its production had been falling as the company faced an ever-worsening chip shortage and other supply chain issues. The company doesnt have… [+1594 chars]"
+    },
+    {
+      "source": { "id": null, "name": "TVLine" },
+      "author": "Dave Nemetz",
+      "title": "'Succession' Recap: Season 3 Premiere, Episode 1 — 'Secession' - TVLine",
+      "description": "RELATED STORIES Succession Stars Preview Season 3, Tease Shifting Loyalties: Who's Team Kendall, and Who's Team Logan? Succession Season 3 Scoop: Cast Teases Kendall Going 'Airborne,' Cousin Greg Making 'Some Nice Moves' It’s Roy versus Roy as Succession retu…",
+      "url": "https://tvline.com/2021/10/17/succession-recap-season-3-premiere-secession-hbo-kendall-logan/",
+      "urlToImage": "https://tvline.com/wp-content/uploads/2021/10/succession-season-3-premiere.jpg?w=620",
+      "publishedAt": "2021-10-18T02:00:00Z",
+      "content": "It’s Roy versus Roy as Succession returns for Season 3 — but who’s got the early upper hand: father or son?\r\nSunday’s premiere picks up right after Kendall’s bombshell press conference: He seems shak… [+4547 chars]"
+    },
+    {
+      "source": { "id": null, "name": "TMZ" },
+      "author": "TMZ Staff",
+      "title": "Kourtney Kardashian & Travis Barker Engaged - TMZ",
+      "description": "The couple that's been all about each other are going to be man and wife!",
+      "url": "https://www.tmz.com/2021/10/17/kourtney-kardashian-and-travis-barker-engaged/",
+      "urlToImage": "https://imagez.tmz.com/image/84/16by9/2021/10/18/84ab3db8ce5841a8ba728bfa8c8cab02_xl.jpg",
+      "publishedAt": "2021-10-18T01:51:00Z",
+      "content": "Kourtney Kardashian is going to be walking down the aisle for the first time in her life -- and she'll be doing it with none other than Travis Barker ... who just popped the big question.\r\nThe Blink-… [+1748 chars]"
+    },
+    {
+      "source": { "id": null, "name": "NPR" },
+      "author": null,
+      "title": "Megan Rice, peace activist nun imprisoned for nuclear site break-in, dies at 91 - NPR",
+      "description": "Megan Rice spent two years in federal prison while in her 80s after breaking into a government security complex to protest nuclear weapons.",
+      "url": "https://www.npr.org/2021/10/17/1046925342/megan-rice-peace-activist-nun-imprisoned-for-nuclear-site-break-in-dies-at-91",
+      "urlToImage": "https://media.npr.org/assets/img/2021/10/17/ap21290845847805_wide-64f82a366a237e2d61f05414bea3498bbf13e8ee.jpg?s=1400",
+      "publishedAt": "2021-10-18T01:04:30Z",
+      "content": "Sister Megan Rice, center, and Michael Walli, in the background waving, are greeted by supporters in 2012 as they arrive for a federal court appearance in Knoxville, Tenn., after being charged with s… [+3981 chars]"
+    },
+    {
+      "source": { "id": null, "name": "YouTube" },
+      "author": null,
+      "title": "Afghan women disappear from public life by order of Taliban's Vice and Virtue Ministry - BBC News - BBC News",
+      "description": "The Taliban have banned girls from secondary schools across most of Afghanistan.Women, except those in the public health sector, have not been allowed to ret...",
+      "url": "https://www.youtube.com/watch?v=IhmM3Z869W0",
+      "urlToImage": "https://i.ytimg.com/vi/IhmM3Z869W0/hqdefault.jpg",
+      "publishedAt": "2021-10-18T00:52:13Z",
+      "content": null
+    },
+    {
+      "source": { "id": null, "name": "New York Post" },
+      "author": "Jesse O’Neill",
+      "title": "Arkansas man shot dead after killing son, stabbing cop - New York Post ",
+      "description": "An Arkansas man was shot dead by police after he stabbed a cop in the throat, bludgeoned his teenage son to death with a rock and killed a woman.",
+      "url": "https://nypost.com/2021/10/17/arkansas-man-shot-dead-after-killing-son-stabbing-cop/",
+      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2021/10/fort-smith-police.jpg?quality=90&strip=all&w=1024",
+      "publishedAt": "2021-10-18T00:36:00Z",
+      "content": "An Arkansas man was shot dead by police after he stabbed a cop in the throat, bludgeoned his teenage son to death with a rock and killed a woman in an extremely violent attack.”\r\nOfficers were called… [+1338 chars]"
+    },
+    {
+      "source": { "id": "fox-news", "name": "Fox News" },
+      "author": "Jon Brown",
+      "title": "Bidens caught violating DC mask mandate at posh Georgetown restaurant - Fox News",
+      "description": "President Biden and first lady Jill Biden were caught violating Washington, D.C.'s indoor mask mandate by walking through a high-end restaurant in Georgetown without masks on Saturday.",
+      "url": "https://www.foxnews.com/politics/bidens-caught-violating-dc-mask-mandate-at-posh-georgetown-restaurant",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2021/10/AP21290010251715.jpg",
+      "publishedAt": "2021-10-18T00:28:55Z",
+      "content": "President Biden and first lady Jill Biden were caught violating Washington, D.C.'s indoor mask mandate by walking through a high-end Georgetown restaurant without masks on Saturday.\r\nThe maskless Bid… [+1956 chars]"
+    },
+    {
+      "source": { "id": "cbs-news", "name": "CBS News" },
+      "author": "Tre'Vaughn Tre'Vaughn",
+      "title": "Police say bystanders \"should've intervened\" as woman was raped on Philadelphia train - CBS News",
+      "description": "The 35-year-old man is now facing rape and several other charges, and authorities describe the inaction of bystanders as \"troubling.\"",
+      "url": "https://www.cbsnews.com/news/philadephia-septa-train-rain-bystanders-shouldve-intervented-police-say/",
+      "urlToImage": "https://cbsnews3.cbsistatic.com/hub/i/r/2021/10/17/08a9c67e-e210-4f1b-b763-e8fe6528dd91/thumbnail/1200x630/8bbc027383b64bbc50eb138fe283c738/gettyimages-508661941.jpg",
+      "publishedAt": "2021-10-17T23:49:09Z",
+      "content": "A woman was allegedly raped on a suburban Philadelphia train last week while police said there were \"a lot of people\" around who \"should have done something.\"\r\nPolice said they had arrested a man con… [+1906 chars]"
+    },
+    {
+      "source": { "id": null, "name": "SpaceNews" },
+      "author": "Jeff Foust",
+      "title": "NASA investigating issue with Lucy solar array - SpaceNews",
+      "description": "Engineers are investigating why one of the two solar arrays on NASA’s Lucy spacecraft may have failed to lock into place when deployed after launch Oct. 16.",
+      "url": "https://spacenews.com/nasa-investigating-issue-with-lucy-solar-array/",
+      "urlToImage": "https://spacenews.com/wp-content/uploads/2021/10/lucy-solararray.jpg",
+      "publishedAt": "2021-10-17T23:41:41Z",
+      "content": "WASHINGTON Engineers are investigating why one of the two solar arrays on NASAs Lucy spacecraft may have failed to lock into place when deployed after launch Oct. 16.\r\nIn an Oct. 17 statement, NASA s… [+2703 chars]"
+    },
+    {
+      "source": { "id": null, "name": "LSUSports.net" },
+      "author": null,
+      "title": "LSU, Coach Orgeron to Part Ways Following 2021 Season – LSU - LSUSports.net",
+      "description": "LSU, Coach Orgeron to Part Ways Following 2021 Season",
+      "url": "https://lsusports.net/news/2021/10/17/lsu-coach-orgeron-to-part-ways-following-2021-season/",
+      "urlToImage": "https://storage.googleapis.com/lsusports-com/2021/08/amt-e8884a2b67952296300114dc274e135a6b004e81-74ddfe59-stadium_3199.jpg",
+      "publishedAt": "2021-10-17T23:15:31Z",
+      "content": "BATON ROUGE LSU and head football coach Ed Orgeron will part ways at the conclusion of the 2021 season, LSU Director of Athletics Scott Woodward announced on Sunday.\r\nOrgeron, who is in his sixth sea… [+2874 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Sportskeeda" },
+      "author": "Manish Kumar Choudhary",
+      "title": "Top 3 Minecraft mobs that will be released in 2022 - Sportskeeda",
+      "description": "One big reason for Minecraft's immense success is the exciting game update released every year.",
+      "url": "https://www.sportskeeda.com/minecraft/top-3-minecraft-mobs-will-released-2022",
+      "urlToImage": "https://staticg.sportskeeda.com/editor/2021/10/4e8ed-16344962102797-1920.jpg",
+      "publishedAt": "2021-10-17T22:19:29Z",
+      "content": "One big reason for Minecraft's immense success is the exciting game update released every year. During the annual Minecraft event, Mojang discloses the next update whilst showcasing new content for t… [+2661 chars]"
+    },
+    {
+      "source": { "id": null, "name": "VOA News" },
+      "author": "VOA Learning English",
+      "title": "NASA’s Latest Mission to Explore Asteroids Near Jupiter’s Orbit - VOA Learning English",
+      "description": "The latest mission of the American space agency, NASA, will explore a group of ancient objects orbiting the sun at the distance of Jupiter. Set to launch October 16, the Lucy spacecraft is designed to study Jupiter’s “Trojan” asteroids.",
+      "url": "https://learningenglish.voanews.com/a/nasa-latest-mission-to-explore-asteroids-near-jupiter-s-orbit/6270940.html",
+      "urlToImage": "https://gdb.voanews.com/EB13CF59-5331-4DBA-93AB-56D45FBC20B0_cx0_cy6_cw0_w1200_r1.jpg",
+      "publishedAt": "2021-10-17T22:02:37Z",
+      "content": "The latest mission of the American space agency, NASA, will explore a group of ancient objects orbiting the sun at the distance of Jupiter.\r\nSet to launch October 16, the Lucy spacecraft is designed … [+3762 chars]"
+    }
+  ]
+}
