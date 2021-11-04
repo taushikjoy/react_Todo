@@ -11,7 +11,7 @@ function App() {
   return (
     <>
       <header>
-        <h1>Joy's To-Do list</h1>
+        <h1>Joy's To-Do list </h1>
       </header>
       <Form
         todos={todos}
@@ -19,7 +19,8 @@ function App() {
         inputText={inputText}
         setInputText={setInputText}
       />
-      <TodoList todos={todos} />
+
+      {<TodoList todos={todos} />}
     </>
   );
 }

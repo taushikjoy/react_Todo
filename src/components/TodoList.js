@@ -5,8 +5,8 @@ function TodoList({ todos }) {
   return (
     <div className="container">
       <ul className="todo-list">
-        {todos.map((hhhh) => (
-          <Todo />
+        {todos.map((todo) => (
+          <Todo text={todo.text} />
         ))}
       </ul>
     </div>

@@ -2,13 +2,10 @@ import React from "react";
 
 function Form(props) {
   function inputTexthandler(e) {
-    console.log(e.target.value);
     props.setInputText(e.target.value);
   }
-
   const submitHandler = (e) => {
     e.preventDefault();
-
     props.setTodos([
       ...props.todos,
       { text: props.inputText, completed: false, id: Math.random() * 1000 },
