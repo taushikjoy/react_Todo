@@ -3,6 +3,7 @@ import React from "react";
 function Form(props) {
   function inputTexthandler(e) {
     props.setInputText(e.target.value);
+    console.log(props.inputText);
   }
   const submitHandler = (e) => {
     e.preventDefault();

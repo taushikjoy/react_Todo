@@ -34,7 +34,7 @@ form button {
   padding: 0.5rem;
   font-size: 2rem;
   background-color: white;
-  margin: 0.05rem;
+  margin: 0.02rem;
 }
 
 .todo-button {
@@ -96,4 +96,9 @@ form button {
 .filter-todo {
   margin-left: 2rem;
   padding: 1rem 1rem;
+}
+
+.completed {
+  text-decoration: line-through;
+  opacity: 0.6;
 }
