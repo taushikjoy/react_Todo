@@ -3,7 +3,6 @@ import React from "react";
 function Form(props) {
   function inputTexthandler(e) {
     props.setInputText(e.target.value);
-    console.log(props.inputText);
   }
   const submitHandler = (e) => {
     e.preventDefault();
@@ -12,6 +11,10 @@ function Form(props) {
       { text: props.inputText, completed: false, id: Math.random() * 1000 },
     ]);
     props.setInputText("");
+  };
+
+  const statusHandler = (e) => {
+    props.setStatus(e.target.value);
   };
 
   return (
@@ -26,10 +29,15 @@ function Form(props) {
         <i className="fas fa-plus"></i>
       </button>
 
-      <select name="todos" className="filter-todo" id="">
+      <select
+        onChange={statusHandler}
+        name="todos"
+        className="filter-todo"
+        id=""
+      >
         <option value="all">ALL</option>
-        <option value="Completed">Completed</option>
-        <option value="Uncompleted">Uncompleted</option>
+        <option value="completed">Completed</option>
+        <option value="uncompleted">Uncompleted</option>
       </select>
     </form>
   );
